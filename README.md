@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/Jasurbekdeveloper/Jasurbekdeveloper/master/name.svg" />
-</h1>
+p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 ### Hi there, I'm Jasurbek 👋
 
