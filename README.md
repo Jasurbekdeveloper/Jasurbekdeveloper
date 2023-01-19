@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Jasurbekdeveloper/Jasurbekdeveloper/master/name.svg" />
+</h1>
+
 ### Hi there, I'm Jasurbek 👋
 
 
